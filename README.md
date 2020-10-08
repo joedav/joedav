@@ -2,7 +2,7 @@
 
 My name is Joelyson David, I'm a developer :man_technologist:,
 and I like music 🎶, animals 🐕 and nature 🌱,
-and I also really like electronic games .
+and I also really like electronic games :video_game:.
 
 [LinkedIn](https://www.linkedin.com/in/joe-dav/)
 
