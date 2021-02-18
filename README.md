@@ -1,8 +1,8 @@
 ### Salveee! 👋
 
 Eu sou o Joe, Sou desenvolvedor de software :man_technologist:
-bem curioso e apaixonado por novas tecnologias, gosto também de música 🎶, animais 🐕 and e da natureza 🌱,
-também sou amante de jogos online :video_game:.
+bem curioso e apaixonado por novas tecnologias, gosto também de música 🎶, animais 🐕 e da natureza 🌱,
+também sou amante de jogos eletronicos :video_game:.
 
 [LinkedIn](https://www.linkedin.com/in/joe-dav/)
 
