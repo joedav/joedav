@@ -1,8 +1,8 @@
-### Salveee! 👋
+### Opa! 👋
 
-Eu sou o Joe, Sou desenvolvedor de software :man_technologist:
-bem curioso e apaixonado por novas tecnologias, gosto também de música 🎶, animais 🐕 e da natureza 🌱,
-também sou amante de jogos eletronicos :video_game:.
+Eu sou o Joe, Sou desenvolvedor de software
+Curioso e apaixonado por novas tecnologias, trabalho com .NET C#
+Atualmente estudando tecnologias mobile Flutter/Dart e um pouco de Kotlin
 
 <!--[LinkedIn](https://www.linkedin.com/in/joe-dav/)-->
 [![Linkedin: joe-dav](https://img.shields.io/badge/-joedav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joe-dav/)](https://www.linkedin.com/in/joe-dav/)
