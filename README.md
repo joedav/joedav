@@ -1,8 +1,8 @@
 ### Opa! 👋
 
-Eu sou o Joe, Sou desenvolvedor de software.
-Curioso e apaixonado por novas tecnologias, trabalho com .NET C#.
-Atualmente estudando tecnologias mobile Flutter/Dart e um pouco de Kotlin.
+Eu sou o Joe, Sou desenvolvedor de software.</br>
+Curioso e apaixonado por novas tecnologias, trabalho com .NET C#.</br>
+Atualmente estudando tecnologias mobile Flutter/Dart e um pouco de Kotlin.</br>
 
 <!--[LinkedIn](https://www.linkedin.com/in/joe-dav/)-->
 [![Linkedin: joe-dav](https://img.shields.io/badge/-joedav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joe-dav/)](https://www.linkedin.com/in/joe-dav/)
